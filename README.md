@@ -48,8 +48,7 @@ Each plot visualizes the reaction rate (v) against concentration (C), with prope
 How to Run
 Install required libraries:
 
-bash
-Copy code
+
 pip install numpy scipy matplotlib
 Run the script:
 
