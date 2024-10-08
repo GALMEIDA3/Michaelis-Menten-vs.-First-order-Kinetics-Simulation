@@ -50,11 +50,12 @@ Install required libraries:
 
 
 pip install numpy scipy matplotlib
+
 Run the script:
 
-bash
-Copy code
 python script_name.py
+
+
 The output will be displayed as a 2x2 grid of plots showing the reaction rate vs. concentration for both models.
 
 License
